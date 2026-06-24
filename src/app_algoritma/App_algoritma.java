@@ -14,6 +14,7 @@ public class App_algoritma {
     public static void main(String[] args) {
         String nama = "Dwi Ferdianto";
         int umur = 21;
+        
 
         System.out.println("Nama : " + nama);
         System.out.println("Umur : " + umur + " tahun");
