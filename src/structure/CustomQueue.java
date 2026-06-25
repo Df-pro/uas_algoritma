@@ -8,6 +8,7 @@ package structure;
  *
  * @author dwife
  */
+
 public class CustomQueue {
     private Node front;
     private Node rear;

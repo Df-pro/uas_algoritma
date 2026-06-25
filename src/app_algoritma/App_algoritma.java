@@ -18,5 +18,5 @@ public class App_algoritma {
 
         System.out.println("Nama : " + nama);
         System.out.println("Umur : " + umur + " tahun");
-    }
+        }
 }

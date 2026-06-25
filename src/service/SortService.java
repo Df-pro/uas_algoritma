@@ -12,6 +12,7 @@ import model.Tersangka;
  * @author dwife
  */
 public class SortService {
+    
     public static void sortNama(ArrayList<Tersangka> list) {
 
         Collections.sort(list, new Comparator<Tersangka>() {
