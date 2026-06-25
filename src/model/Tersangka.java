@@ -68,4 +68,6 @@ public class Tersangka {
     public String toString() {
         return idTersangka + " - " + nama;
     }
+    
+    
 }

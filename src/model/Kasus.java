@@ -68,4 +68,5 @@ public class Kasus {
     public String toString() {
         return idKasus + " - " + namaKasus;
     }
+    
 }
